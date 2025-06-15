@@ -201,60 +201,6 @@ html {
   text-decoration: underline;
 }
 
-.register {
-  width: 100%;
-  max-width: 400px;
-  margin: auto;
-  background: #ffffff;
-  padding: 20px;
-  border-radius: 10px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  text-align: center;
-}
-.register form {
-  display: flex;
-  flex-direction: column;
-}
-.register label {
-  font-weight: bold;
-  margin-bottom: 5px;
-  text-align: left;
-  color: #333333;
-}
-.register input {
-  padding: 10px;
-  margin-bottom: 15px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  font-size: 1em;
-}
-.register input:focus {
-  border-color: #4A90E2;
-  outline: none;
-  box-shadow: 0 0 5px rgba(74, 144, 226, 0.5);
-}
-.register button {
-  padding: 10px;
-  background-color: #4A90E2;
-  color: #fff;
-  border: none;
-  border-radius: 5px;
-  font-size: 1em;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}
-.register button:hover {
-  background-color: #357AB8;
-}
-.register a {
-  margin-top: 15px;
-  color: #FF6F61;
-  text-decoration: none;
-}
-.register a:hover {
-  text-decoration: underline;
-}
-
 .profile {
   width: 100%;
   max-width: 400px;
